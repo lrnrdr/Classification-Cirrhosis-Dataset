@@ -26,18 +26,34 @@ ___
 
 
 ## Visual #1
-![image](https://github.com/lrnrdr/Classification-Cirrhosis-PredictionDataset/assets/138408700/49c534ce-4304-4e46-9804-83974457b9d5)
-
-All stages had high cholesterol of >200 mg/dl while on Drug D.   The placebos and Drug performed neck and neck through most of the stages with an exception to stage 1 which Drug D had a Cholesterol of ~300 mg/dl and placebo had just under 200 mg/dl.  Given that the placebo's performed so close to Drug D, it doesn't seem as if tihs drug was effective when evaluating Cholestrol and the stages. 
+![image](https://github.com/lrnrdr/Classification-Cirrhosis-PredictionDataset/assets/138408700/e6c733fc-19ba-4680-8461-7d5ab53c343b)
 
 
-The (test_R2) metric in the models is probably the most important metric. It shows that the model can explain a specific % of the data.
-The Tuned Random Forest model can explain for 59% of the test data which means the others explain less of the variations in the target.
+All stages had high cholesterol of >200 mg/dl while on Drug D.   The placebos and D-penicillamine performed neck and neck through most of the stages with an exception to stage 1 which D-penicillamine had a Cholesterol of ~300 mg/dl and placebo had just under 200 mg/dl.  Given that the placebo's performed so close to D-penicillamine, it doesn't seem as if this drug was effective when evaluating Cholestrol and the stages.
 
   
 ## Visual #2
 
-![image](https://github.com/lrnrdr/Classification-Cirrhosis-PredictionDataset/assets/138408700/4484fe32-2227-4101-9e0a-f793b41b1522)
+![image](https://github.com/lrnrdr/Classification-Cirrhosis-PredictionDataset/assets/138408700/2eba0506-daa3-422a-b1e0-80139a780981)
 
 
--Comparing the cholesterol on Drug D and Placebo, they are almost symmetric.    There is a slight positive correlation between Bilirubin and Cholesterol.
+There isn't a big difference between Cholesterol in both D-penicillamine and the Placebo, so I don't think the drug effects cholesterol.   I can see that the cholestrol average is over 200, so that is high cholestrol.   
+
+For Bilirubin there is a slight difference between both D-penicillamine and the Placebo levels.  The ones on D-penicillamine had lower Bilirubin vs the ones taking the placebo, but its slight.
+___
+
+# **** Items below TBD having error and cannot pick best metric at the moment. Questions below will be addressed and question to be removed once answer provided.****
+
+
+
+## How would model solve business problem? 
+
+Metrics for best model
+
+
+Explain how your model's false positive and false negative rates will affect your stakeholder. Be sure to consider class balance in your evaluation.
+
+A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
+
+
+
