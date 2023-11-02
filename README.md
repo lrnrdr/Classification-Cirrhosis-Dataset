@@ -40,15 +40,14 @@ All stages had high cholesterol of >200 mg/dl while on Drug D.   The placebos an
 There isn't a big difference between Cholesterol in both D-penicillamine and the Placebo, so I don't think the drug effects cholesterol.   I can see that the cholestrol average is over 200, so that is high cholestrol.   
 
 For Bilirubin there is a slight difference between both D-penicillamine and the Placebo levels.  The ones on D-penicillamine had lower Bilirubin vs the ones taking the placebo, but its slight.
+
 ___
-## How would model solve business problem? 
+## Metrics for best model
 
-Metrics for best model
+![image](https://github.com/lrnrdr/Classification-Cirrhosis-PredictionDataset/assets/138408700/d2682d7a-d9be-4634-9171-c3e5ab2f9bf9)
 
 
-Explain how your model's false positive and false negative rates will affect your stakeholder. Be sure to consider class balance in your evaluation.
-
-A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
+The PCA model lowered the Type II (False negatives) which is the best metric to consider when dealing with a medicial condition/desease.  We want to have the least amount possible of Fales Negatives because this means patients would be told they don't have the desease and they really do, so the lower the better.  The PCA Model had Type II errors of 28%, verses the other models which had a higher chance of False Negatives.
 
 
 
