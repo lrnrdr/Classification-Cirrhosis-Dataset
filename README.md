@@ -41,11 +41,6 @@ There isn't a big difference between Cholesterol in both D-penicillamine and the
 
 For Bilirubin there is a slight difference between both D-penicillamine and the Placebo levels.  The ones on D-penicillamine had lower Bilirubin vs the ones taking the placebo, but its slight.
 ___
-
-# **** Items below TBD having error and cannot pick best metric at the moment. Questions below will be addressed and question to be removed once answer provided.****
-
-
-
 ## How would model solve business problem? 
 
 Metrics for best model
