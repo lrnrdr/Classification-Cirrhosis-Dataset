@@ -44,6 +44,7 @@ For Bilirubin there is a slight difference between both D-penicillamine and the 
 ___
 ## Metrics for best model
 
+### PCA Model Metrics
 ![image](https://github.com/lrnrdr/Classification-Cirrhosis-PredictionDataset/assets/138408700/d2682d7a-d9be-4634-9171-c3e5ab2f9bf9)
 
 
