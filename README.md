@@ -48,7 +48,7 @@ ___
 ![image](https://github.com/lrnrdr/Classification-Cirrhosis-PredictionDataset/assets/138408700/d2682d7a-d9be-4634-9171-c3e5ab2f9bf9)
 
 
-The PCA model lowered the Type II (False negatives) which is the best metric to consider when dealing with a medicial condition/desease.  We want to have the least amount possible of Fales Negatives because this means patients would be told they don't have the desease and they really do, so the lower the better.  The PCA Model had Type II errors of 28%, verses the other models which had a higher chance of False Negatives.
+The PCA model lowered the Type II (False negatives) which is the best metric to consider when dealing with a medicial condition/disease.  We want to have the least amount possible of Fales Negatives because this means patients would be told they don't have the desease and they really do, so the lower the better.  The PCA Model had Type II errors of 28%, verses the other models which had a higher chance of False Negatives.
 
 
 
